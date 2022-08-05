@@ -25,7 +25,7 @@ public class Main {
         char[] Arr = new char [5];
         for (int i = 0; i < 5; i++) {
             Arr[i] = ToSolve.charAt(i);
-            System.out.printf("\n%c", Arr[i]);
+//            System.out.printf("\n%c", Arr[i]);
         }
 
         if (Arr[1] == '=') {
